@@ -2,7 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 December, 2020 - 28 December, 2020
+
+Java         2 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.83 % 
+SQL          1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.63 % 
+JavaScript   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Markdown     25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 <!--
