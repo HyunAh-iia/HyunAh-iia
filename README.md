@@ -11,6 +11,8 @@ Markdown     25 mins         ██░░░░░░░░░░░░░░░
 YAML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunAh-iia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HyunAh-iia/HyunAh-iia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
