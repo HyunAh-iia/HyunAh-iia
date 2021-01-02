@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-Markdown     3 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   43.10 % 
-Java         3 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   33.23 % 
-SQL          1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JavaScript   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Git Config   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown     5 hrs 1 min     ████████████░░░░░░░░░░░░░   48.03 % 
+Java         3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 % 
+SQL          1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
