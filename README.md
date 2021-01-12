@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
-Java       22 hrs 44 mins  ██████████████▓░░░░░░░░░░   58.17 % 
-Markdown   7 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
-SQL        6 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-YAML       55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Groovy     50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Java         22 hrs 14 mins  ██████████████▒░░░░░░░░░░   57.51 % 
+Markdown     7 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.14 % 
+SQL          6 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+JavaScript   1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Groovy       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
 
