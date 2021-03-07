@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 26 February, 2021 - 05 March, 2021
+Week: 27 February, 2021 - 06 March, 2021
 
 Java       10 hrs 7 mins   ███████████████▒░░░░░░░░░   61.51 % 
 SQL        4 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
