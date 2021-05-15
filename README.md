@@ -2,11 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 06 May, 2021 - 13 May, 2021
+Week: 07 May, 2021 - 14 May, 2021
 
-Markdown   5 hrs 49 mins   ██████████████▒░░░░░░░░░░   57.45 % 
-SQL        2 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Java       1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Markdown   6 hrs 7 mins    ██████████████▒░░░░░░░░░░   57.41 % 
+SQL        2 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Java       1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 ```
 <!--END_SECTION:waka-->
 
