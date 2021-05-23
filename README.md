@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
 Markdown   3 hrs 19 mins   ████████████▒░░░░░░░░░░░░   49.49 % 
 Other      2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.48 % 
