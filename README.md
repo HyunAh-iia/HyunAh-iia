@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
 Java         7 hrs 15 mins   ████████████████████▒░░░░   80.76 % 
 YAML         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
