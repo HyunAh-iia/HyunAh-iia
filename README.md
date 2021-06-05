@@ -2,10 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2021 - 03 June, 2021
+Week: 28 May, 2021 - 04 June, 2021
 
-Java       1 hr 17 mins    ██████████████████████▒░░   89.42 % 
-Markdown   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Java         54 mins         ██████████████▒░░░░░░░░░░   57.99 % 
+Groovy       23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+Markdown     15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 ```
 <!--END_SECTION:waka-->
 
