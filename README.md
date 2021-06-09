@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
 Groovy       1 hr 25 mins    ████████████▓░░░░░░░░░░░░   50.87 % 
 Java         1 hr 2 mins     █████████▒░░░░░░░░░░░░░░░   37.32 % 
