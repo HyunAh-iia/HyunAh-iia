@@ -2,12 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 03 June, 2021 - 10 June, 2021
+Week: 04 June, 2021 - 11 June, 2021
 
-Groovy       1 hr 25 mins    ████████████▓░░░░░░░░░░░░   50.87 % 
-Java         1 hr 2 mins     █████████▒░░░░░░░░░░░░░░░   37.32 % 
-Git Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Groovy       1 hr 1 min      ██████████████████▓░░░░░░   74.13 % 
+Git Config   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Java         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 ```
 <!--END_SECTION:waka-->
 
