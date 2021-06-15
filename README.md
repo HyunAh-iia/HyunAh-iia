@@ -2,11 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
-
-Groovy       1 hr 1 min      ██████████████████▓░░░░░░   74.13 % 
-Git Config   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Java         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
