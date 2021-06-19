@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
 Java         1 hr 17 mins    ███████████░░░░░░░░░░░░░░   44.28 % 
 Properties   56 mins         ████████░░░░░░░░░░░░░░░░░   32.55 % 
