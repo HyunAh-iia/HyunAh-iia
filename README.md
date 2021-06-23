@@ -2,13 +2,10 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 14 June, 2021 - 21 June, 2021
+Week: 15 June, 2021 - 22 June, 2021
 
-Markdown     2 hrs 50 mins   ████████████▒░░░░░░░░░░░░   49.60 % 
-Java         1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
-Properties   56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Groovy       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Git Config   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown   3 hrs 20 mins   ████████████████████████░   95.60 % 
+Other      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 <!--END_SECTION:waka-->
 
