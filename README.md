@@ -2,10 +2,10 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
-Markdown   1 hr 12 mins    ██████████████████████▓░░   90.41 % 
-CSS        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown   1 hr 47 mins    ███████████████████████▒░   93.32 % 
+CSS        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 <!--END_SECTION:waka-->
 
