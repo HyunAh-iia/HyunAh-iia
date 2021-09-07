@@ -2,11 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
-
-Java         22 mins         ████████████████████▓░░░░   82.15 % 
-XML          2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-YAML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
