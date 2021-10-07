@@ -2,7 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 September, 2021 - 06 October, 2021
+
+Java       3 hrs 37 mins   ██████████████████████░░░   87.57 % 
+Markdown   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Groovy     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
