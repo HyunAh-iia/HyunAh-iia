@@ -2,11 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-Java       3 hrs 37 mins   ██████████████████████░░░   87.57 % 
-Markdown   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Groovy     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Java       4 hrs 41 mins   ██████████████████████▓░░   90.11 % 
+Markdown   28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Groovy     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
