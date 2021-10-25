@@ -2,7 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 October, 2021 - 24 October, 2021
+
+Java       1 hr 5 mins     █████████░░░░░░░░░░░░░░░░   35.47 % 
+Docker     45 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
+Groovy     34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Markdown   26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+HTML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 <!--END_SECTION:waka-->
 
