@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
 Java       1 hr 52 mins    ████████████░░░░░░░░░░░░░   47.68 % 
 Docker     45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 % 
