@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
-Docker     3 hrs 58 mins   █████████████▒░░░░░░░░░░░   52.97 % 
-Java       2 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.00 % 
-Markdown   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Bash       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Groovy     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Java         6 hrs 38 mins   ████████████▓░░░░░░░░░░░░   51.03 % 
+Docker       3 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 % 
+Markdown     1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 <!--END_SECTION:waka-->
 
