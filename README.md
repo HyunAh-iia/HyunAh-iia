@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
 Java         8 hrs 35 mins   █████████████▓░░░░░░░░░░░   54.79 % 
 JavaScript   2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
