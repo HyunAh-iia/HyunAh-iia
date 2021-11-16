@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2021 - 14 November, 2021
+Week: 09 November, 2021 - 15 November, 2021
 
-JavaScript   2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 % 
-Java         2 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Markdown     1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Docker       42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-YAML         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Java         1 hr 58 mins    ███████████▓░░░░░░░░░░░░░   46.59 % 
+Markdown     46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 % 
+YAML         37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+JavaScript   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Bash         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 <!--END_SECTION:waka-->
 
