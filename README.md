@@ -2,13 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
-
-Java         1 hr 58 mins    ██████████████████████▒░░   89.35 % 
-Groovy       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-SQL          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
