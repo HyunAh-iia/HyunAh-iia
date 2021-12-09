@@ -2,7 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 December, 2021 - 08 December, 2021
+
+Markdown     55 mins         █████████▒░░░░░░░░░░░░░░░   37.50 % 
+Java         41 mins         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+JavaScript   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Docker       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Bash         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 <!--END_SECTION:waka-->
 
