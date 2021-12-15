@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 Java         5 hrs 20 mins   ████████████████▓░░░░░░░░   67.12 % 
 Markdown     1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
