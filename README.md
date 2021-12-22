@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 Bash         29 mins         ███████████░░░░░░░░░░░░░░   43.46 % 
 Docker       19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
