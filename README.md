@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 JavaScript   1 hr 1 min      ████████████████████▒░░░░   81.62 % 
 Docker       10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
