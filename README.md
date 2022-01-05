@@ -2,11 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
-
-JavaScript   1 hr            ███████████████████████▓░   94.39 % 
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
