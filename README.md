@@ -2,7 +2,14 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 February, 2022 - 16 February, 2022
+
+Total: 1 hr 20 mins
+
+Docker       44 mins         █████████████▓░░░░░░░░░░░   55.22 % 
+JavaScript   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
+Bash         16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 <!--END_SECTION:waka-->
 
