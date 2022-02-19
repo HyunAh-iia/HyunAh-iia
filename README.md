@@ -2,9 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
-
-Total: 1 hr 20 mins
+Week: 12 February, 2022 - 18 February, 2022
 
 Docker       44 mins         █████████████▓░░░░░░░░░░░   55.22 % 
 JavaScript   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
