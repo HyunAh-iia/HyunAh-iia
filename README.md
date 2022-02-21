@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+From: 12 February, 2022 - To: 19 February, 2022
 
 Docker       44 mins         █████████████▓░░░░░░░░░░░   55.22 % 
 JavaScript   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
