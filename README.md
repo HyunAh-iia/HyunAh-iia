@@ -2,12 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-From: 14 February, 2022 - To: 21 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-Docker       44 mins         █████████████▓░░░░░░░░░░░   55.22 % 
-JavaScript   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
-Bash         16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java         1 hr 48 mins    ██████████▓░░░░░░░░░░░░░░   42.33 % 
+Docker       44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 
+TypeScript   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Bash         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 <!--END_SECTION:waka-->
 
