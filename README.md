@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Java         1 hr 48 mins    ██████████▓░░░░░░░░░░░░░░   42.33 % 
-Docker       44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 
-TypeScript   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Bash         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Java         7 hrs 6 mins    ████████████████░░░░░░░░░   64.02 % 
+TypeScript   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Groovy       39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+YAML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 <!--END_SECTION:waka-->
 
