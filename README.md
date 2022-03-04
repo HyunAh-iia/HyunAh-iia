@@ -3,14 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
-
-Java             2 hrs 52 mins   ███████████████████▓░░░░░   78.38 %
-YAML             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-Groovy           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Gradle           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Markdown         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
