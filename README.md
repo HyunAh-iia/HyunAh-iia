@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-Markdown     44 mins         ████████████████░░░░░░░░░   64.54 %
-YAML         20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown     1 hr 9 mins     ██████████████████▒░░░░░░   73.99 %
+YAML         20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
