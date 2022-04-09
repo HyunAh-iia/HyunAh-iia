@@ -3,13 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-Markdown     1 hr 9 mins     ██████████████████▒░░░░░░   73.99 %
-YAML         20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   1 hr 12 mins    █████████▓░░░░░░░░░░░░░░░   39.00 %
+Markdown     1 hr 11 mins    █████████▓░░░░░░░░░░░░░░░   38.11 %
+YAML         20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+HTML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
