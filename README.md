@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-Java         2 hrs 58 mins   ████████████▒░░░░░░░░░░░░   48.76 %
-TypeScript   1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-JavaScript   1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-Markdown     27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-HTML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Gradle       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java         2 hrs 58 mins   █████████████░░░░░░░░░░░░   52.34 %
+TypeScript   1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+JavaScript   1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+HTML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Gradle       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
