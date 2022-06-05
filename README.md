@@ -3,9 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
+From: 28 May 2022 - To: 04 June 2022
 
-PHP   0 secs          █████████████████████████   100.00 %
+Java           57 mins         ████████████████████████▓   99.22 %
+PHP            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
