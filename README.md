@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 05 June 2022
+From: 30 May 2022 - To: 06 June 2022
 
 Java           2 hrs 51 mins   █████████████████████████   99.73 %
 PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
