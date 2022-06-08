@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 31 May 2022 - To: 07 June 2022
 
-Java           2 hrs 51 mins   █████████████████████████   99.73 %
+Java           2 hrs 51 mins   █████████████████████████   99.66 %
 PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
