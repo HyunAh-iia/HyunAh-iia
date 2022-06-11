@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 June 2022 - To: 09 June 2022
+From: 03 June 2022 - To: 10 June 2022
 
 Java           2 hrs 51 mins   █████████████████████████   99.92 %
 Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
