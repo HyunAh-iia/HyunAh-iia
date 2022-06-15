@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
-
-Java       0 secs          █████████████████░░░░░░░░   67.91 %
-Markdown   0 secs          ████████░░░░░░░░░░░░░░░░░   32.09 %
-PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
