@@ -3,7 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 June 2022 - To: 20 June 2022
+
+Java             1 hr 7 mins     █████████████████████▒░░░   84.99 %
+Gradle           10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
