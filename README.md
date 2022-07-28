@@ -3,12 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
-
-Java     0 secs          ████████████████████░░░░░   80.61 %
-Groovy   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-SQL      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
